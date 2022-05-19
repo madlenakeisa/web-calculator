@@ -41,7 +41,7 @@ body {
     grid-gap: 1em;
 }
   .container .buttons .button, .container .buttons .num-button  {
-    cursor: grab;
+    cursor: point;
     text-align: center;
     width: 60px;
     font-size:20px;
